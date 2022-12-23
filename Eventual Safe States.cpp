@@ -6,7 +6,7 @@ using namespace std;
 
 
 // } Driver Code Ends
-// User function Template for C++
+// User function Template for Cpp
 
 class Solution {
     bool dfs(int node, vector<int> adj[],int vis[],int pathvis[],int check[])
